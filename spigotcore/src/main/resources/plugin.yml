@@ -1,0 +1,4 @@
+name: VoiceChatParty-Core
+main: party.voicechat.spigotcore.SpigotCore
+version: 0.0.1-SNAPSHOT
+author: JumpingPxl
